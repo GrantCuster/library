@@ -1,5 +1,6 @@
 let fs = require('fs-extra')
 let path = require('path')
+let pretty = require('pretty')
 
 let library = JSON.parse(
   fs.readFileSync(path.join(__dirname, 'library.json'), 'utf-8')
@@ -60,4 +61,4 @@ let html = `<!DOCTYPE html>
   </body>
 </html>`
 
-fs.writeFileSync('index.html', html)
+fs.writeFileSync('index.html', pretty(html))

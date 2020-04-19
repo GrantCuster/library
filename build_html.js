@@ -44,7 +44,11 @@ let html = `<!DOCTYPE html>
   </head>
   <body>
     ${content}
-    <div class="archive">Archive: <a href="https://www.goodreads.com/user/show/74775-grant-custer">Goodreads</a></div>
+    <div class="source-links">
+      Built from <a href="/library.json">library.json</a> according to
+      <a href="https://tomcritchlow.com/2020/04/15/library-json/">this proposed format</a>.
+    </div>
+    <div class="archive"><a href="https://www.goodreads.com/user/show/74775-grant-custer">Goodreads (legacy)</a></div>
     <div class="footer">
       <div>Grant Custer</div>
       <div class="footer-links">

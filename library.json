@@ -1,0 +1,34 @@
+{
+  "name": "Grant Custer's Library",
+  "url": "https://library.grantcuster.com",
+  "bio": "Books I've read or am reading.",
+  "lists": [
+    {
+      "name": "In Progress",
+      "url": "https://library.grantcuster.com",
+      "books": [
+        {
+          "title": "The Buried Giant",
+          "id": null,
+          "author": "Kazuo Ishiguro",
+          "link": "https://www.amazon.com/dp/B00N6PCXME",
+          "date_finished": "In progress",
+          "notes": "In progress"
+        },
+        {
+          "title": "A Programmer's Introduction to Mathematics",
+          "id": null,
+          "author": "Jeremy Kun",
+          "link": "https://www.amazon.com/dp/1727125452",
+          "date_finished": "In progress",
+          "notes": "In progress"
+        }
+      ]
+    },
+    {
+      "name": "Finished",
+      "url": "https://library.grantcuster.com",
+      "books": []
+    }
+  ]
+}

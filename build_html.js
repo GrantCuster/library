@@ -32,15 +32,15 @@ let html = `<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
+
     <title>${library.name}</title>
     <meta name="description" content="${library.bio}" />
-
     <meta property="og:title" content="${library.name}" /> 
     <meta property="og:description" content="${library.bio}" />
     <meta property="og:url" content="${library.url}" />
 
     <meta name="viewport" content="width=device-width" />
- 
+
     <link rel="stylesheet" href="style.css">
   </head>
   <body>

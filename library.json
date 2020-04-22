@@ -8,14 +8,6 @@
       "url": "https://library.grantcuster.com",
       "books": [
         {
-          "title": "The Buried Giant",
-          "id": null,
-          "author": "Kazuo Ishiguro",
-          "link": "https://www.amazon.com/dp/B00N6PCXME",
-          "date_finished": "In progress",
-          "notes": "In progress"
-        },
-        {
           "title": "A Programmer's Introduction to Mathematics",
           "id": null,
           "author": "Jeremy Kun",
@@ -28,7 +20,16 @@
     {
       "name": "Finished",
       "url": "https://library.grantcuster.com",
-      "books": []
+      "books": [
+        {
+          "title": "The Buried Giant",
+          "id": null,
+          "author": "Kazuo Ishiguro",
+          "link": "https://www.amazon.com/dp/B00N6PCXME",
+          "date_finished": "2020-04-21",
+          "rating": 4
+        }
+      ]
     }
   ]
 }

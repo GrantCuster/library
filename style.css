@@ -63,10 +63,16 @@ a {
   color: var(--gray);
 }
 .book-title {
-  color: var(--yellow);
+  color: var(--blue);
 }
 .book-author {
   color: var(--green);
+}
+
+.rating {
+  width: 6ch;
+  display: inline-block;
+  color: var(--yellow);
 }
 
 .footer-links {

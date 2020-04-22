@@ -22,7 +22,15 @@ for (let l = 0; l < lists.length; l++) {
   let books = list.books
   for (let b = 0; b < books.length; b++) {
     let book = books[b]
-    content += `<div class="book"><span class="book-title"><a href="${book.link}">${book.title}</a></span> by <span class="book-author">${book.author}</span></div>`
+    content += `<div class="book">${
+      book.rating
+        ? `<span class="rating">${[...Array(book.rating)]
+            .map(n => '★')
+            .join('')}</span>`
+        : ''
+    }<span class="book-title"><a href="${book.link}">${
+      book.title
+    }</a></span> by <span class="book-author">${book.author}</span></div>`
   }
   content += `</div>`
 }

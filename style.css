@@ -74,6 +74,10 @@ a {
   display: inline-block;
   color: var(--yellow);
 }
+.date-finished {
+  margin-right: 1ch;
+  color: var(--gray);
+}
 
 .footer-links {
   margin-left: 2ch;

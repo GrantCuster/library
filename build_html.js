@@ -23,6 +23,10 @@ for (let l = 0; l < lists.length; l++) {
   for (let b = 0; b < books.length; b++) {
     let book = books[b]
     content += `<div class="book">${
+      book.date_finished
+        ? `<span class="date-finished">${book.date_finished}</span>`
+        : ''
+    }${
       book.rating
         ? `<span class="rating">${[...Array(book.rating)]
             .map(n => '★')
@@ -54,7 +58,7 @@ let html = `<!DOCTYPE html>
   <body>
     ${content}
     <div class="source-links">
-      Built from <a href="/library.json">library.json</a> according to
+      Built from <a href="/library.json">library.json</a> mostly according to
       <a href="https://tomcritchlow.com/2020/04/15/library-json/">this proposed format</a>.
     </div>
     <div class="archive"><a href="https://www.goodreads.com/user/show/74775-grant-custer">Goodreads (legacy)</a></div>

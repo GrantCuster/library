@@ -54,7 +54,7 @@ a {
   margin-bottom: 16px;
 }
 .list-name {
-  color: var(--purple);
+  color: var(--blue);
 }
 .book-number {
   color: var(--gray);
@@ -63,7 +63,7 @@ a {
   color: var(--gray);
 }
 .book-title {
-  color: var(--blue);
+  color: var(--purple);
 }
 .book-author {
   color: var(--green);

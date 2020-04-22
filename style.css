@@ -31,7 +31,6 @@ body {
   color: var(--gray);
   padding-left: 4px;
   padding-right: 4px;
-  user-select: none;
 }
 * {
   box-sizing: border-box;

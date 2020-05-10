@@ -22,6 +22,14 @@
       "url": "https://library.grantcuster.com",
       "books": [
         {
+          "title": "The Changeling",
+          "id": null,
+          "author": "Victor LaValle",
+          "link": "https://www.amazon.com/dp/B01I85RN4O",
+          "date_finished": "2020-05-07",
+          "rating": 3
+        },
+        {
           "title": "The Buried Giant",
           "id": null,
           "author": "Kazuo Ishiguro",

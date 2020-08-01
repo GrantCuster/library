@@ -4,23 +4,41 @@
   "bio": "Books I've read or am reading.",
   "lists": [
     {
-      "name": "In Progress",
-      "url": "https://library.grantcuster.com",
-      "books": [
-        {
-          "title": "A Programmer's Introduction to Mathematics",
-          "id": null,
-          "author": "Jeremy Kun",
-          "link": "https://www.amazon.com/dp/1727125452",
-          "date_finished": null,
-          "notes": "In progress"
-        }
-      ]
-    },
-    {
       "name": "Finished",
       "url": "https://library.grantcuster.com",
       "books": [
+        {
+          "title": "The Cerulean Queen (The Nine Realms)",
+          "id": null,
+          "author": "Sarah Kozloff",
+          "link": "https://www.amazon.com/dp/B07QLHG13R",
+          "date_finished": "2020-07-24",
+          "rating": 4
+        },
+        {
+          "title": "A Broken Queen (The Nine Realms)",
+          "id": null,
+          "author": "Sarah Kozloff",
+          "link": "https://www.amazon.com/dp/B07QPGZVYX",
+          "date_finished": "2020-07-20",
+          "rating": 4
+        },
+        {
+          "title": "The Queen of Raiders (The Nine Realms)",
+          "id": null,
+          "author": "Sarah Kozloff",
+          "link": "https://www.amazon.com/dp/B07QPHFTC6",
+          "date_finished": "2020-07-16",
+          "rating": 4
+        },
+        {
+          "title": "A Queen in Hiding (The Nine Realms)",
+          "id": null,
+          "author": "Sarah Kozloff",
+          "link": "https://www.amazon.com/dp/B07QPJ71TR",
+          "date_finished": "2020-07-12",
+          "rating": 4
+        },
         {
           "title": "The Changeling",
           "id": null,

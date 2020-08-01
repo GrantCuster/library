@@ -10,7 +10,6 @@ let content = ''
 
 content += `<div class="library-info">`
 content += `<div class="library-name">${library.name}</div>`
-content += `<div class="library-bio">${library.bio}</div>`
 content += `</div>`
 
 content += `<div class="lists">`

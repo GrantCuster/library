@@ -65,8 +65,8 @@ let html = `<!DOCTYPE html>
     <div class="footer">
       <div>Grant Custer</div>
       <div class="footer-links">
-        <a href="http://index.grantcuster.com">Index</a>
-        <a href="http://feed.grantcuster.com">Feed</a>
+        <a href="https://grantcuster.com">Index</a>
+        <a href="https://feed.grantcuster.com">Feed</a>
         <a href="https://twitter.com/grantcuster">Twitter</a>
       </div>
     </div>

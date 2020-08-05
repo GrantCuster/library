@@ -8,6 +8,14 @@
       "url": "https://library.grantcuster.com",
       "books": [
         {
+          "title": "The City in the Middle of the Night",
+          "id": null,
+          "author": "Charlie Jane Anders",
+          "link": "https://www.amazon.com/dp/B07FJZDJ8Y",
+          "date_finished": "2020-08-05",
+          "rating": 4
+        },
+        {
           "title": "The Cerulean Queen (The Nine Realms)",
           "id": null,
           "author": "Sarah Kozloff",

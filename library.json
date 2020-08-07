@@ -8,6 +8,14 @@
       "url": "https://library.grantcuster.com",
       "books": [
         {
+          "title": "All Systems Red: The Murderbot Diaries",
+          "id": null,
+          "author": "Martha Wells",
+          "link": "https://www.amazon.com/gp/product/B01MYZ8X5C",
+          "date_finished": "2020-08-07",
+          "rating": 4
+        },
+        {
           "title": "The City in the Middle of the Night",
           "id": null,
           "author": "Charlie Jane Anders",

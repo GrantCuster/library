@@ -8,6 +8,14 @@
       "url": "https://library.grantcuster.com",
       "books": [
         {
+          "title": "Throne of Jade: A Novel of Temeraire",
+          "id": null,
+          "author": "Naomi Novik",
+          "link": "https://www.amazon.com/gp/product/B000GCFG8I",
+          "date_finished": "2020-08-14",
+          "rating": 3
+        },
+        {
           "title": "All Systems Red: The Murderbot Diaries",
           "id": null,
           "author": "Martha Wells",

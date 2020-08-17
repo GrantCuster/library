@@ -8,6 +8,14 @@
       "url": "https://library.grantcuster.com",
       "books": [
         {
+          "title": "Gideon the Ninth: The Locked Tomb #1",
+          "id": null,
+          "author": "Tamsyn Muir",
+          "link": "https://www.amazon.com/gp/product/B07J6HWLPR",
+          "date_finished": "2020-08-16",
+          "rating": 4
+        },
+        {
           "title": "Throne of Jade: A Novel of Temeraire",
           "id": null,
           "author": "Naomi Novik",

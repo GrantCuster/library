@@ -8,6 +8,22 @@
       "url": "https://library.grantcuster.com",
       "books": [
         {
+          "title": "Harrow the Ninth: The Locked Tomb #2",
+          "id": null,
+          "author": "Tamsyn Muir",
+          "link": "https://www.amazon.com/Harrow-Ninth-Locked-Tomb-Trilogy/dp/1250313228",
+          "date_finished": "2020-08-26",
+          "rating": 4
+        },
+        {
+          "title": "The Dark Tower I: The Gunslinger ",
+          "id": null,
+          "author": "Stephen King",
+          "link": "https://www.amazon.com/Dark-Tower-I-Gunslinger-ebook/dp/B018ER7JRC",
+          "date_finished": "2020-08-22",
+          "rating": 3
+        },
+        {
           "title": "Gideon the Ninth: The Locked Tomb #1",
           "id": null,
           "author": "Tamsyn Muir",

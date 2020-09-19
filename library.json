@@ -8,6 +8,22 @@
       "url": "https://library.grantcuster.com",
       "books": [
         {
+          "title": "Red Pill",
+          "id": null,
+          "author": "Hari Kunzru",
+          "link": "https://bookshop.org/books/red-pill-9780451493712/9780451493712",
+          "date_finished": "2020-09-18",
+          "rating": 3
+        },
+        {
+          "title": "Working in Public: The Making and Maintenance of Open Source Software",
+          "id": null,
+          "author": "Nadia Eghbal",
+          "link": "https://www.amazon.com/dp/0578675862/",
+          "date_finished": "2020-09-15",
+          "rating": 3
+        },
+        {
           "title": "Harrow the Ninth: The Locked Tomb #2",
           "id": null,
           "author": "Tamsyn Muir",
